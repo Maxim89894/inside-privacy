@@ -4,7 +4,7 @@ _Последнее обновление: 16 октября 2026 · Last updated
 
 ## Русский
 
-Приложение «Глубина» (далее — приложение) создано, чтобы помогать практиковать
+Приложение «INSIDE» (далее — приложение) создано, чтобы помогать практиковать
 медитацию. Мы стараемся знать о вас как можно меньше.
 
 **Аккаунтов нет.** Приложение не просит имя, почту, телефон или другие
@@ -53,7 +53,7 @@ Google Play или App Store. Платёжные данные обрабатыв
 
 ## English
 
-The "Глубина" app (the "app") helps you practice meditation. We try to know as
+The "INSIDE" app (the "app") helps you practice meditation. We try to know as
 little about you as possible.
 
 **No accounts.** The app never asks for your name, email, phone or other
