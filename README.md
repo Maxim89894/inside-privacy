@@ -1,1 +1,1 @@
-# glubina-privacy
+#     inside-privacy
