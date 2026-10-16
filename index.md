@@ -12,9 +12,9 @@ _Последнее обновление: 16 октября 2026 · Last updated
 
 **Что хранится на вашем устройстве.** Дата начала курса, пройденные практики,
 настройки (напоминания, язык, вибро, звуки, голос), время последних практик
-(чтобы предложить удобное время напоминания) и число поддержек автора. Эти
-данные не покидают устройство, кроме системной резервной копии (Google / iCloud),
-если вы её включили. В веб-версии эти данные хранятся в вашем браузере.
+(чтобы предложить удобное время напоминания). Эти данные не покидают
+устройство, кроме системной резервной копии (Google / iCloud), если вы её
+включили. В веб-версии эти данные хранятся в вашем браузере.
 
 **Отчёты о сбоях.** Если приложение падает или в нём происходит ошибка, оно
 отправляет технический отчёт в сервис Sentry (Functional Software, Inc.).
@@ -25,14 +25,14 @@ _Последнее обновление: 16 октября 2026 · Last updated
 или списка пройденных практик. Данные хранятся на серверах Sentry в Европе,
 обычно до 90 дней, и используются только для исправления ошибок.
 
-**Покупки.** Поддержка автора в приложении на телефоне проходит через
-Google Play или App Store. Платёжные данные обрабатывает магазин, приложение их
-не получает.
+**Покупки.** В приложении для телефона нет покупок, платежей и ссылок на
+оплату. Приложение бесплатное, платёжных данных оно не запрашивает и не
+получает.
 
-**Веб-версия.** В браузере поддержка возможна по ссылкам и реквизитам автора
-(например, Boosty, Destream, банковский перевод). При переходе по таким ссылкам
-действуют правила и политика конфиденциальности соответствующего сервиса;
-приложение платёжных данных не получает.
+**Веб-версия.** Поддержать автора можно только в веб-версии, в браузере: по
+ссылкам и реквизитам автора (например, Boosty, Destream, банковский перевод).
+При переходе по таким ссылкам действуют правила и политика конфиденциальности
+соответствующего сервиса; приложение платёжных данных не получает.
 
 **Уведомления** создаются на самом устройстве, без серверов.
 
@@ -60,10 +60,9 @@ little about you as possible.
 contact details.
 
 **Stored on your device:** course start date, completed practices, settings
-(reminders, language, haptics, sounds, voice), times of recent practices (to
-suggest a convenient reminder time) and the number of times you supported the
-author. This data stays on your device, except for the system backup
-(Google / iCloud) if you enabled it. In the web version this data is stored in
+(reminders, language, haptics, sounds, voice) and times of recent practices (to
+suggest a convenient reminder time). This data stays on your device, except
+for the system backup (Google / iCloud) if you enabled it. In the web version this data is stored in
 your browser.
 
 **Crash reports.** If the app crashes or hits an error, it sends a technical
@@ -74,14 +73,13 @@ derive an approximate city from it). Reports contain no name, contacts,
 precise location, screen content or practice history. They are stored on
 Sentry servers in Europe, usually for up to 90 days, and used only to fix bugs.
 
-**Purchases.** In the phone app, supporting the author goes through Google Play
-or the App Store; payment details are processed by the store and never reach
-the app.
+**Purchases.** The phone app has no purchases, payments or links to payment
+pages. It is free and neither requests nor receives payment details.
 
-**Web version.** In the browser, you can support the author via links and
-payment details (for example Boosty, Destream, bank transfer). When you open
-such links, the rules and privacy policy of that service apply; the app does
-not receive payment details.
+**Web version.** Supporting the author is available only in the web version,
+in the browser, via links and payment details (for example Boosty, Destream,
+bank transfer). When you open such links, the rules and privacy policy of that
+service apply; the app does not receive payment details.
 
 **Notifications** are created on the device itself, without servers.
 
