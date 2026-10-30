@@ -1,6 +1,6 @@
 # Политика конфиденциальности / Privacy Policy
 
-_Последнее обновление: 20 октября 2026 · Last updated: October 20, 2026_
+_Последнее обновление: 29 октября 2026 · Last updated: October 29, 2026_
 
 ## Русский
 
@@ -14,7 +14,8 @@ _Последнее обновление: 20 октября 2026 · Last updated
 настройки (напоминания, язык, вибро, звуки, голос), время последних практик
 (чтобы предложить удобное время напоминания), время завершения каждой практики
 курса и сколько минут вы практиковали (из этого после 101 дня складывается
-«твоя клякса»). Эти данные не покидают устройство, кроме системной резервной
+«твоя клякса»), оценки напряжения до и после практики (если вы их отмечаете),
+уровни игр, посаженный лес и звёздное небо. Эти данные не покидают устройство, кроме системной резервной
 копии (Google / iCloud), если вы её включили. В веб-версии эти данные хранятся
 в вашем браузере.
 
@@ -61,6 +62,11 @@ _Последнее обновление: 20 октября 2026 · Last updated
 на устройстве вычисляется только громкость; звук не записывается, не
 сохраняется и никуда не отправляется. Микрофон выключается, как только
 практика закончилась или поставлена на паузу.
+
+**Датчик движения.** В играх «Баланс-шарик» и «Перо на ветру» шарик и перо
+катятся за наклоном телефона: для этого приложение, пока открыта игра, читает
+акселерометр. Эти данные используются только на устройстве, не сохраняются и
+никуда не отправляются.
 
 **Голос и звуки.** Чтение практик вслух использует синтезатор речи вашего
 устройства или браузера. Фоновые звуки создаются на самом устройстве.
@@ -129,7 +135,8 @@ contact details.
 (reminders, language, haptics, sounds, voice), times of recent practices (to
 suggest a convenient reminder time), the time each course practice was
 finished and how many minutes you practiced (after 101 days this becomes
-"your blot"). This data stays on your device, except for the system backup
+"your blot"), tension ratings before and after a practice (if you give them),
+game levels, the forest you planted and your star sky. This data stays on your device, except for the system backup
 (Google / iCloud) if you enabled it. In the web version this data is stored in
 your browser.
 
@@ -171,6 +178,11 @@ hears your breath" and grant permission, the app listens to the microphone
 during a practice so the blot moves with your breathing. Only the loudness is
 computed on the device; the sound is never recorded, stored or sent anywhere.
 The microphone turns off as soon as the practice ends or is paused.
+
+**Motion sensor.** In the "Balance ball" and "Feather in the wind" games the
+ball and the feather follow the tilt of your phone: while such a game is open,
+the app reads the accelerometer. This data is used only on the device, never
+stored and never sent anywhere.
 
 **Voice and sounds.** Reading practices aloud uses the text-to-speech engine
 of your device or browser. Background sounds are generated on the device
