@@ -64,18 +64,19 @@ _Последнее обновление: 29 октября 2026 · Last updated
 практика закончилась или поставлена на паузу.
 
 **Датчик движения.** В играх «Баланс-шарик» и «Перо на ветру» шарик и перо
-катятся за наклоном телефона: для этого приложение, пока открыта игра, читает
-акселерометр. Эти данные используются только на устройстве, не сохраняются и
-никуда не отправляются.
+катятся за наклоном телефона, а живая клякса перетекает, когда телефон
+наклоняют или встряхивают: для этого приложение, пока игра или клякса на
+экране, читает акселерометр. Эти данные используются только на устройстве, не
+сохраняются и никуда не отправляются.
 
 **Голос и звуки.** Чтение практик вслух использует синтезатор речи вашего
 устройства или браузера. Фоновые звуки создаются на самом устройстве.
 Приложение не отправляет текст практик на свои серверы.
 
 **Уведомления** создаются на самом устройстве, без серверов: напоминание о
-практике и, если вы их включили, «Паузы днём». В веб-версии напоминание и
-«Минуту тишины каждый час» показывает сам браузер, пока вкладка приложения
-открыта; для этого приложение ничего не отправляет.
+практике и, если вы их включили, «Паузы днём». В веб-версии напоминание
+показывает сам браузер, пока вкладка приложения открыта; для этого приложение
+ничего не отправляет.
 
 **«Не беспокоить» (по желанию, Android, по умолчанию выключено).** Если вы
 включите «Настройки → Помощь → „не беспокоить“ во время практики» и дадите
@@ -180,7 +181,8 @@ computed on the device; the sound is never recorded, stored or sent anywhere.
 The microphone turns off as soon as the practice ends or is paused.
 
 **Motion sensor.** In the "Balance ball" and "Feather in the wind" games the
-ball and the feather follow the tilt of your phone: while such a game is open,
+ball and the feather follow the tilt of your phone, and the living blot flows
+when you tilt or shake the phone: while such a game or the blot is on screen,
 the app reads the accelerometer. This data is used only on the device, never
 stored and never sent anywhere.
 
@@ -190,8 +192,8 @@ itself. The app does not send practice texts to its own servers.
 
 **Notifications** are created on the device itself, without servers: the
 practice reminder and, if you turned them on, "Daytime pauses". In the web
-version the reminder and the "Hourly minute of silence" are shown by the
-browser itself while the app's tab is open; the app sends nothing for this.
+version the reminder is shown by the browser itself while the app's tab is
+open; the app sends nothing for this.
 
 **Do Not Disturb (optional, Android, off by default).** If you turn on
 "Settings → Help → Do Not Disturb during practice" and grant access in system
