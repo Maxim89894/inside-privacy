@@ -1,6 +1,6 @@
 # Политика конфиденциальности / Privacy Policy
 
-_Последнее обновление: 29 октября 2026 · Last updated: October 29, 2026_
+_Последнее обновление: 22 ноября 2026 · Last updated: November 22, 2026_
 
 ## Русский
 
@@ -15,7 +15,9 @@ _Последнее обновление: 29 октября 2026 · Last updated
 (чтобы предложить удобное время напоминания), время завершения каждой практики
 курса и сколько минут вы практиковали (из этого после 101 дня складывается
 «твоя клякса»), оценки напряжения до и после практики (если вы их отмечаете),
-уровни игр, посаженный лес и звёздное небо. Эти данные не покидают устройство, кроме системной резервной
+уровни игр, коллекции и выполненные задания дня в играх, посаженный лес и
+звёздное небо, дни, в которые вы практиковали (для серии дней подряд).
+Виджет «Подышать минуту» хранит, сколько секунд вы дышали с ним сегодня. Эти данные не покидают устройство, кроме системной резервной
 копии (Google / iCloud), если вы её включили. В веб-версии эти данные хранятся
 в вашем браузере.
 
@@ -33,11 +35,13 @@ _Последнее обновление: 29 октября 2026 · Last updated
 технический отчёт в сервис Sentry (Functional Software, Inc.). Выключить можно
 там же в любой момент, после этого отчёты не отправляются.
 В отчёт входят: описание ошибки, модель устройства, версия системы и
-приложения, язык и часовой пояс, технические сведения о состоянии приложения
-и IP-адрес (по нему Sentry может определить приблизительный город). Отчёт не
+приложения, язык и часовой пояс, технические сведения о состоянии приложения,
+случайный номер установки (создаётся сервисом и не связан с вами) и IP-адрес (по нему Sentry может определить приблизительный город). Отчёт не
 содержит вашего имени, контактов, точного местоположения, содержимого экрана
 или списка пройденных практик. Данные хранятся на серверах Sentry в Европейском
 союзе, обычно до 90 дней, и используются только для исправления ошибок.
+Пока отчёты включены, приложение также сообщает Sentry о начале и конце
+каждого использования (без содержимого) — чтобы знать долю запусков без сбоев.
 
 **Анонимная статистика (по желанию, по умолчанию выключена).** Если вы сами
 включите «Настройки → Помощь → делиться анонимной статистикой», приложение
@@ -56,12 +60,7 @@ _Последнее обновление: 29 октября 2026 · Last updated
 ответить. Если форма недоступна, «написать нам» открывает письмо в вашей
 почтовой программе.
 
-**Микрофон (по желанию, по умолчанию выключено).** Если вы включите
-«Настройки → Клякса слышит дыхание» и дадите разрешение, во время практики
-приложение слушает микрофон, чтобы клякса двигалась в такт дыханию. Из звука
-на устройстве вычисляется только громкость; звук не записывается, не
-сохраняется и никуда не отправляется. Микрофон выключается, как только
-практика закончилась или поставлена на паузу.
+**Микрофон.** Приложение не пользуется микрофоном и не просит доступ к нему.
 
 **Датчик движения.** В играх «Баланс-шарик» и «Перо на ветру» шарик и перо
 катятся за наклоном телефона, а живая клякса перетекает, когда телефон
@@ -112,7 +111,9 @@ Connect (Android) или «Здоровье» (iOS) на вашем устрой
 сообщение — напишите на почту ниже.
 
 **Удаление данных.** «Настройки → Помощь → сбросить прогресс» стирает всё,
-что приложение хранит на устройстве. Удаление приложения удаляет всё полностью.
+что приложение хранит на устройстве, кроме языка и вашего выбора об отчётах о
+сбоях. Сессии, уже записанные в Health Connect или «Здоровье», остаются там —
+их можно удалить в этих приложениях. Удаление приложения удаляет всё полностью.
 Чтобы удалить технический отчёт о сбое или своё сообщение, напишите нам на
 почту ниже.
 
@@ -137,7 +138,10 @@ contact details.
 suggest a convenient reminder time), the time each course practice was
 finished and how many minutes you practiced (after 101 days this becomes
 "your blot"), tension ratings before and after a practice (if you give them),
-game levels, the forest you planted and your star sky. This data stays on your device, except for the system backup
+game levels, game collections and completed daily tasks, the forest you
+planted and your star sky, the days on which you practiced (for your streak).
+The "Breathe for a minute" widget keeps how many seconds you breathed with it
+today. This data stays on your device, except for the system backup
 (Google / iCloud) if you enabled it. In the web version this data is stored in
 your browser.
 
@@ -154,10 +158,13 @@ sends a technical report to Sentry (Functional Software, Inc.) when it crashes
 or hits an error. You can turn them off there at any time; after that no
 reports are sent. A report includes: the error description, device model, OS
 and app version, language and time zone, technical information about the app
-state, and your IP address (Sentry may derive an approximate city from it).
+state, a random installation number (created by the service, not linked to
+you) and your IP address (Sentry may derive an approximate city from it).
 Reports contain no name, contacts, precise location, screen content or
 practice history. They are stored on Sentry servers in the European Union,
-usually for up to 90 days, and used only to fix bugs.
+usually for up to 90 days, and used only to fix bugs. While reports are on,
+the app also tells Sentry when each use of the app starts and ends (no
+content), to know the share of crash-free launches.
 
 **Anonymous statistics (optional, off by default).** If you turn on
 "Settings → Help → share anonymous statistics", the app sends one short mark
@@ -174,11 +181,7 @@ language are sent to the same Sentry service together with technical details
 and is used only to read it and reply. If the form is unavailable, "write to
 us" opens an email in your mail app.
 
-**Microphone (optional, off by default).** If you turn on "Settings → Blot
-hears your breath" and grant permission, the app listens to the microphone
-during a practice so the blot moves with your breathing. Only the loudness is
-computed on the device; the sound is never recorded, stored or sent anywhere.
-The microphone turns off as soon as the practice ends or is paused.
+**Microphone.** The app does not use the microphone and never asks for it.
 
 **Motion sensor.** In the "Balance ball" and "Feather in the wind" games the
 ball and the feather follow the tilt of your phone, and the living blot flows
@@ -228,7 +231,9 @@ you gave it. You can ask to see or delete a report or message you sent — email
 us at the address below.
 
 **Deleting data.** "Settings → Help → reset progress" erases everything the
-app stores on the device. Uninstalling the app removes everything. To have a
+app stores on the device except the language and your choice about crash
+reports. Sessions already saved to Health Connect or Health stay there — you
+can delete them in those apps. Uninstalling the app removes everything. To have a
 crash report or your message deleted, email us at the address below.
 
 **Children.** The app is not directed at children under 13 and does not
